@@ -1,4 +1,5 @@
 # SSEncryptor
+[![Gem Version](https://badge.fury.io/rb/SSEncryptor.svg)](https://badge.fury.io/rb/SSEncryptor)
 [![Build Status](https://travis-ci.org/SGospodinov/SSEncryptor.svg?branch=master)](https://travis-ci.org/SGospodinov/SSEncryptor)
 
 SSEncryptor provides simplified interface for work with ruby openssl cipher. The process of encryption/decryption is symmetric.
